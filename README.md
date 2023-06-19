@@ -1,2 +1,1 @@
-# minicapson
-part1 and part2
+### Mini Capson Project
